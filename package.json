@@ -1,0 +1,26 @@
+{
+  "name": "wood-html2image",
+  "version": "1.0.9",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jlego@github.com/jlego/wood-html2image.git"
+  },
+  "keywords": [
+    "wood-html2image"
+  ],
+  "author": "jlego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlego/wood-html2image/issues"
+  },
+  "homepage": "https://github.com/jlego/wood-html2image#readme",
+  "dependencies": {
+    "phantom": "^6.2.0",
+    "webpage": "^0.3.0"
+  }
+}
